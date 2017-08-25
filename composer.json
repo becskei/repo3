@@ -2,7 +2,7 @@
   "name": "becskei/repo3",
   "license": "proprietary",
   "type": "project",
-  "description": "https://github.com/becskei/repo3 repository for vendor 3",
+  "description": "https://github.com/becskei/repo3",
   "autoload": {
     "psr-4": {
       "": "src/"
