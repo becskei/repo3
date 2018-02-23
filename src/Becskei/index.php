@@ -1,3 +1,3 @@
 <?php
 
-echo 'repo 3 version 5.1';
+echo 'repo 3 version 6.1';
