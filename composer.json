@@ -5,5 +5,8 @@
   "description": "https://github.com/becskei/repo3",
   "autoload": {
     "psr-0" : { "" : "src/"}
+  },
+  "require": {
+    "becskei/repo4": "2.1"
   }
 }
