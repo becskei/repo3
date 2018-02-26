@@ -6,6 +6,12 @@
   "autoload": {
     "psr-0" : { "" : "src/"}
   },
+  "repositories": [
+    {
+      "type": "git",
+      "url": "git@github.com:becskei/repo4.git"
+    }
+  ],
   "require": {
     "becskei/repo4": "2.1"
   }
